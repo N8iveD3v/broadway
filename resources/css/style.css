@@ -34,7 +34,9 @@ a {
   color: white;
   font-size: 18px;
 }
-.info {
+#info h2 {
+  font-size: 23px;
+  font-weight: bold;
   color: white;
   background: url("../images/the-flatiron-building.png")
 }
